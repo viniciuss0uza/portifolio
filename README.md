@@ -1,2 +1,2 @@
-# portifolio
+# portfolio
 Meu portfolio web
